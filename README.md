@@ -1,1 +1,1 @@
-# persnal-website
+# websitepersonal
